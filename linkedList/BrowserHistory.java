@@ -1,3 +1,5 @@
+// 1472. Design Browser History
+
 class BrowserHistory {
     class Node {
         String val;
